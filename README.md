@@ -2,7 +2,7 @@
 Codes pour l'expérimentation du projet du cours SYS866
 
 J'ai moi même implémenté les scripts :
-- [GraphCMR/eval.py] en me basant sur le script d'évaluation original : https://github.com/nkolot/GraphCMR/blob/master/eval.py
+- [GraphCMR/eval.py](GaphCMR/eval.py) en me basant sur le script d'évaluation original : https://github.com/nkolot/GraphCMR/blob/master/eval.py
 - hmr/eval_lsp_dataset.py et hmr/eval_up-3d.py à partir du script original de demonstration des auteurs (hmr/demo.py) et de mon script d'évaluation de la méthode CMR (GraphCMR/eval.py)
 - eval.py en ne me basant sur rien
 
