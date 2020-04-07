@@ -2,7 +2,7 @@
 Codes pour l'expérimentation du projet du cours SYS866
 
 J'ai moi même implémenté les scripts :
-- GraphCMR/eval.py en me basant sur le script d'évaluation original : https://github.com/nkolot/GraphCMR/blob/master/eval.py
+- [GraphCMR/eval.py] en me basant sur le script d'évaluation original : https://github.com/nkolot/GraphCMR/blob/master/eval.py
 - hmr/eval_lsp_dataset.py et hmr/eval_up-3d.py à partir du script original de demonstration des auteurs (hmr/demo.py) et de mon script d'évaluation de la méthode CMR (GraphCMR/eval.py)
 - eval.py en ne me basant sur rien
 
@@ -13,6 +13,8 @@ Pour chacune des méthodes, voici le répertoire GitHub original et offciel où 
 
 
 Pour SMPLify il faut se rendre sur la page web du projet et s'enregistrer pour télécharger les modèles et le code : http://smplify.is.tue.mpg.de/
+
+J'ai également eu besoin de OpenPose : https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 
 Pour NBF, je n'ai pas implémenté de script de test pour les raisons énoncées dans mon rapport final. J'ai simplement suivit les instructions du README.md de la page d'acceuil du répertoire GitHub pour exécuter le code de démonstration comme je l'ai mentionné dans mon rapport final.
 
